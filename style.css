@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    margin-top: 200px;
+  }
+  
+  .chat {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
